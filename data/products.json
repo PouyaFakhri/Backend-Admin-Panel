@@ -1,0 +1,44 @@
+[
+  {
+    "id": "ac6398e3-71ed-46b8-9ea4-fd805a7cf461",
+    "name": "تبلت",
+    "price": 200000,
+    "quantity": 20
+  },
+  {
+    "id": "0841bc59-4a0a-48d3-8a44-d104e2d2a617",
+    "name": "ذستبند",
+    "price": 30000,
+    "quantity": 6
+  },
+  {
+    "id": "5c529add-9f3f-4d2f-aafe-79cd3c5f1ea2",
+    "name": "هدفون",
+    "price": 200000,
+    "quantity": 10
+  },
+  {
+    "id": "ba957877-0298-4731-940d-e3530d108ff8",
+    "name": "کلاه",
+    "price": 200000,
+    "quantity": 100
+  },
+  {
+    "id": "436e6906-f322-4a05-958d-8eb56f71fb71",
+    "name": "کیبورد",
+    "price": 960000,
+    "quantity": 50
+  },
+  {
+    "id": "ad95a72a-219c-4a4b-8b7f-8ed16b571ad4",
+    "name": "گارد موبایل",
+    "price": 340000,
+    "quantity": 100
+  },
+  {
+    "id": "d87ef61a-2296-420c-a0c1-48b4fbe5b779",
+    "name": "فلش",
+    "price": 987000,
+    "quantity": 10
+  }
+]
